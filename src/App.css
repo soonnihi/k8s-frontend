@@ -1,0 +1,39 @@
+/* logo */
+.logo {
+  color: white;
+  font-weight: bold;
+  font-size: 46px;
+  text-align: center;
+  padding: 40px;
+  margin-bottom: 100px;
+}
+
+/* sider */
+.sideBar {
+  float: left;
+  width: 300px;
+  height: 100%;
+  background-color: rebeccapurple;
+}
+
+.sideBarFont {
+  color: white;
+  text-decoration: none;
+  font-size: 36px;
+}
+
+
+li {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.dashBoard {
+  height: 100vh;
+}
+
+.section {
+  float: none;
+  height: 100%;
+  overflow: scroll;
+}
